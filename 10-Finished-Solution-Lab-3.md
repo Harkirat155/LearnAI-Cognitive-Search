@@ -108,9 +108,7 @@ Here are the body requests for the solution to Lab 3. Don't forget to adjust the
 ## Index
 ```json
 {
-    "@odata.context": "https://<your-azure-search>.search.windows.net/$metadata#indexes/$entity",
-    "@odata.etag": "\"0x8D5B9CB96002CA5\"",
-    "name": "demoindex",
+
     "fields": [
         {
             "name": "id",
